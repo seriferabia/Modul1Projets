@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd358a98-ace3-4161-9e51-91eb61c56ca8" name="Default Changelist" comment="">
+      <change beforePath="$USER_HOME$/NACS/i4-programming/src/challenge/katabank/AccountReader.java" beforeDir="false" afterPath="$USER_HOME$/NACS/i4-programming/src/challenge/katabank/AccountReader.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/NACS/i4-programming/src/challenge/secretdetective/SecretDetective.java" beforeDir="false" afterPath="$USER_HOME$/NACS/i4-programming/src/challenge/secretdetective/SecretDetective.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/NACS/i4-programming/src/exercise/week9/ex2/StreamsTest.java" beforeDir="false" afterPath="$USER_HOME$/NACS/i4-programming/src/exercise/week9/ex2/StreamsTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/NACS/junit-workshop-timetravelers/src/RomanCreditCardConverterApplication.java" beforeDir="false" afterPath="$USER_HOME$/NACS/junit-workshop-timetravelers/src/RomanCreditCardConverterApplication.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/NACS/junit-workshop-timetravelers/src/creditcardvalidator/CreditCardValidator.java" beforeDir="false" afterPath="$USER_HOME$/NACS/junit-workshop-timetravelers/src/creditcardvalidator/CreditCardValidator.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/NACS/junit-workshop-timetravelers/src/creditcardvalidator/CreditCardValidatorTest.java" beforeDir="false" afterPath="$USER_HOME$/NACS/junit-workshop-timetravelers/src/creditcardvalidator/CreditCardValidatorTest.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/NACS/junit-workshop-timetravelers/src/romanconverter/NumberConverter.java" beforeDir="false" afterPath="$USER_HOME$/NACS/junit-workshop-timetravelers/src/romanconverter/NumberConverter.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/NACS/junit-workshop-timetravelers/src/romanconverter/NumberConverterTest.java" beforeDir="false" afterPath="$USER_HOME$/NACS/junit-workshop-timetravelers/src/romanconverter/NumberConverterTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Alice</find>
+      <find>The</find>
+      <find>[]</find>
+      <find>-</find>
+      <find>tokyo</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/NACS/junit-workshop-timetravelers" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/prWeek12/railFencer2/Step.java" />
+        <option value="$PROJECT_DIR$/src/prWeek12/railFencer2/Rows.java" />
+        <option value="$PROJECT_DIR$/src/prWeek12/railFencer2/RowParse.java" />
+        <option value="$PROJECT_DIR$/src/prWeek12/railFencer2/RowParser.java" />
+        <option value="$PROJECT_DIR$/src/prWeek12/railFencer2/ToDown.java" />
+        <option value="$PROJECT_DIR$/src/prWeek12/railFencer2/Encoder.java" />
+        <option value="$PROJECT_DIR$/src/prWeek12/railFencer2/ToUp.java" />
+        <option value="$PROJECT_DIR$/src/prWeek12/railFencer2/Application.java" />
+        <option value="$PROJECT_DIR$/src/prWeek12/railFencer2/Coordinate.java" />
+        <option value="$PROJECT_DIR$/src/prWeek12/railFencer/EncoderTest.java" />
+        <option value="$PROJECT_DIR$/src/prWeek12/railFencer/Encoder.java" />
+        <option value="$PROJECT_DIR$/src/prWeek12/railFencer/CipherApplication.java" />
+        <option value="$PROJECT_DIR$/src/prWeek12/railFencer3/Step.java" />
+        <option value="$PROJECT_DIR$/src/prWeek12/railFencer3/ToDown.java" />
+        <option value="$PROJECT_DIR$/src/prWeek12/railFencer3/ToUp.java" />
+        <option value="$PROJECT_DIR$/src/prWeek12/railFencer3/CoordinateCalculator.java" />
+        <option value="$PROJECT_DIR$/src/prWeek12/railFencer3/Decoder.java" />
+        <option value="$PROJECT_DIR$/src/prWeek12/railFencer3/DecoderTest.java" />
+        <option value="$PROJECT_DIR$/src/prWeek12/permutationsOfAList/Permutation.java" />
+        <option value="$PROJECT_DIR$/src/prWeek12/permutationsOfAList/Permutation4.java" />
+        <option value="$PROJECT_DIR$/src/prWeek12/mapSorting/CourseId.java" />
+        <option value="$PROJECT_DIR$/src/prWeek12/mapSorting/Application.java" />
+        <option value="$PROJECT_DIR$/src/prWeek12/matrixMultiplication/ArraysMultiplication.java" />
+        <option value="$PROJECT_DIR$/src/prWeek12/matrixMultiplication/Application.java" />
+        <option value="$PROJECT_DIR$/src/prWeek12/permutationsOfAList/Permutation5.java" />
+        <option value="$PROJECT_DIR$/src/prWeek12/railFencer3/EncoderTest.java" />
+        <option value="$PROJECT_DIR$/src/prWeek12/railFencer3/Application.java" />
+        <option value="$PROJECT_DIR$/src/prWeek12/railFencer3/Encoder.java" />
+        <option value="$PROJECT_DIR$/src/prWeek12/railFencer3/Coordinate.java" />
+        <option value="$PROJECT_DIR$/src/prWeek12/railFencer/Decoder.java" />
+        <option value="$PROJECT_DIR$/src/prWeek12/permutationsOfAList/Permutation3.java" />
+        <option value="$PROJECT_DIR$/src/prWeek12/permutationsOfAList/Permutation2.java" />
+        <option value="$PROJECT_DIR$/src/prWeek4/ex9/FileReader.java" />
+        <option value="$PROJECT_DIR$/src/prWeek8/Main.java" />
+        <option value="$PROJECT_DIR$/src/prWeek8/robomime/Decryption.java" />
+        <option value="$PROJECT_DIR$/src/prWeek11/ex4/OneEditAwayTest.java" />
+        <option value="$PROJECT_DIR$/src/prWeek12/permutationsOfAList/Application.java" />
+        <option value="$PROJECT_DIR$/src/prWeek11/ex3/WordsForNumbers.java" />
+        <option value="$PROJECT_DIR$/src/prWeek12/permutationsOfAList/Permutation7.java" />
+        <option value="$PROJECT_DIR$/src/prWeek12/permutationsOfAList/PermutationApplication.java" />
+        <option value="$PROJECT_DIR$/src/prWeek12/permutationsOfAList/PermutationTest.java" />
+        <option value="$PROJECT_DIR$/src/prWeek12/permutationsOfAList/Permutation6.java" />
+        <option value="$USER_HOME$/NACS/junit-workshop-timetravelers/src/romanconverter/NumberConverterTest.java" />
+        <option value="$USER_HOME$/NACS/junit-workshop-timetravelers/src/romanconverter/NumberConverter.java" />
+        <option value="$USER_HOME$/NACS/junit-workshop-timetravelers/src/creditcardvalidator/CreditCardValidatorTest.java" />
+        <option value="$USER_HOME$/NACS/junit-workshop-timetravelers/src/creditcardvalidator/CreditCardValidator.java" />
+        <option value="$USER_HOME$/NACS/i4-programming/src/exercise/week9/ex2/StreamsTest.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$USER_HOME$/NACS/i4-programming/src/challenge/secretdetective/SecretDetective.java" />
+        <option value="$USER_HOME$/NACS/i4-programming/src/challenge/katabank/AccountReader.java" />
+        <option value="$PROJECT_DIR$/src/prWeek10/ex4/Character.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="320" />
+    <option name="y" value="549" />
+    <option name="width" value="1390" />
+    <option name="height" value="1007" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550762761300" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/lombok.jar!/" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="prWeek12.permutationsOfAList" />
+      <recent name="prWeek12.railFencer3" />
+      <recent name="prWeek12.railFencer" />
+      <recent name="prWeek11.reflection11" />
+      <recent name="prWeek11.ex4Interface2" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/prWeek7/ex9/word" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="prWeek7.prWeek7_reflection7" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/prWeek10/reflection10" />
+      <recent name="$PROJECT_DIR$/src/prWeek9/source" />
+      <recent name="$PROJECT_DIR$/src/prWeek7/prWeek7_reflection7" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="prWeek12.railFencer" />
+      <recent name="prWeek7.reflection7" />
+      <recent name="prWeek7.ex8" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.SecretRecoveryTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Project1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreditCardValidatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit-workshop-timetravelers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="creditcardvalidator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="creditcardvalidator" />
+      <option name="MAIN_CLASS_NAME" value="creditcardvalidator.CreditCardValidatorTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreditCardValidatorTest.isValid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit-workshop-timetravelers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="creditcardvalidator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="creditcardvalidator" />
+      <option name="MAIN_CLASS_NAME" value="creditcardvalidator.CreditCardValidatorTest" />
+      <option name="METHOD_NAME" value="isValid" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreditCardValidatorTest.isValidLength" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit-workshop-timetravelers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="creditcardvalidator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="creditcardvalidator" />
+      <option name="MAIN_CLASS_NAME" value="creditcardvalidator.CreditCardValidatorTest" />
+      <option name="METHOD_NAME" value="isValidLength" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecretRecoveryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="i4-programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="challenge.secretdetective.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="challenge.secretdetective" />
+      <option name="MAIN_CLASS_NAME" value="challenge.secretdetective.SecretRecoveryTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.CreditCardValidatorTest" />
+      <item itemvalue="JUnit.CreditCardValidatorTest.isValid" />
+      <item itemvalue="JUnit.CreditCardValidatorTest.isValidLength" />
+      <item itemvalue="JUnit.SecretRecoveryTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SecretRecoveryTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.CreditCardValidatorTest.isValidLength" />
+        <item itemvalue="JUnit.CreditCardValidatorTest" />
+        <item itemvalue="JUnit.CreditCardValidatorTest.isValid" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd358a98-ace3-4161-9e51-91eb61c56ca8" name="Default Changelist" comment="" />
+      <created>1544800562894</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544800562894</updated>
+      <workItem from="1544800566845" duration="576000" />
+      <workItem from="1544801214672" duration="1100000" />
+      <workItem from="1544975520535" duration="613000" />
+      <workItem from="1545035049037" duration="21649000" />
+      <workItem from="1545060516453" duration="1537000" />
+      <workItem from="1545132921129" duration="10352000" />
+      <workItem from="1545156039208" duration="3314000" />
+      <workItem from="1545206800030" duration="12764000" />
+      <workItem from="1545501473312" duration="6319000" />
+      <workItem from="1545849354503" duration="14091000" />
+      <workItem from="1546185347831" duration="1236000" />
+      <workItem from="1546344888220" duration="14184000" />
+      <workItem from="1546698804578" duration="599000" />
+      <workItem from="1546851249600" duration="16200000" />
+      <workItem from="1546884583368" duration="3755000" />
+      <workItem from="1546939540588" duration="10332000" />
+      <workItem from="1547024799709" duration="2460000" />
+      <workItem from="1547054016389" duration="599000" />
+      <workItem from="1547108508557" duration="6213000" />
+      <workItem from="1547207131753" duration="6574000" />
+      <workItem from="1547460577334" duration="17688000" />
+      <workItem from="1547487326339" duration="2489000" />
+      <workItem from="1547489877708" duration="504000" />
+      <workItem from="1547491037920" duration="23000" />
+      <workItem from="1547543255301" duration="3924000" />
+      <workItem from="1547549290335" duration="4544000" />
+      <workItem from="1547626209354" duration="4726000" />
+      <workItem from="1547711867817" duration="5288000" />
+      <workItem from="1547746794420" duration="1061000" />
+      <workItem from="1547798051407" duration="3290000" />
+      <workItem from="1547813830710" duration="599000" />
+      <workItem from="1548062958068" duration="19372000" />
+      <workItem from="1548150318585" duration="6345000" />
+      <workItem from="1548258016231" duration="802000" />
+      <workItem from="1548321417854" duration="12763000" />
+      <workItem from="1548402666179" duration="5522000" />
+      <workItem from="1548587486108" duration="2312000" />
+      <workItem from="1548666625752" duration="19853000" />
+      <workItem from="1548696531382" duration="5265000" />
+      <workItem from="1548750447023" duration="11750000" />
+      <workItem from="1548853135693" duration="1241000" />
+      <workItem from="1548921314181" duration="18039000" />
+      <workItem from="1549007718816" duration="6788000" />
+      <workItem from="1549038766048" duration="599000" />
+      <workItem from="1549354569063" duration="19756000" />
+      <workItem from="1549447569942" duration="16268000" />
+      <workItem from="1549527229590" duration="17382000" />
+      <workItem from="1549563278046" duration="220000" />
+      <workItem from="1549613278825" duration="1207000" />
+      <workItem from="1549800182497" duration="9123000" />
+      <workItem from="1549880049838" duration="506000" />
+      <workItem from="1549880574945" duration="563000" />
+      <workItem from="1549883337318" duration="743000" />
+      <workItem from="1549885930845" duration="857000" />
+      <workItem from="1549887254742" duration="1083000" />
+      <workItem from="1549888379065" duration="8160000" />
+      <workItem from="1549906512772" duration="620000" />
+      <workItem from="1549962869063" duration="1237000" />
+      <workItem from="1550008325078" duration="634000" />
+      <workItem from="1550045142204" duration="8262000" />
+      <workItem from="1550131119857" duration="3384000" />
+      <workItem from="1550220503519" duration="2142000" />
+      <workItem from="1550321538607" duration="1016000" />
+      <workItem from="1550324818003" duration="9378000" />
+      <workItem from="1550339005025" duration="9070000" />
+      <workItem from="1550372023796" duration="3503000" />
+      <workItem from="1550526397001" duration="1070000" />
+      <workItem from="1550529314041" duration="63000" />
+      <workItem from="1550529394936" duration="135000" />
+      <workItem from="1550576887353" duration="450000" />
+      <workItem from="1550584046881" duration="170000" />
+      <workItem from="1550745924633" duration="2486000" />
+      <workItem from="1550823511806" duration="2435000" />
+      <workItem from="1551090855775" duration="203000" />
+      <workItem from="1551091075377" duration="622000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CreditCardValidatorTest_isValidLength - 2019.02.13 at 16h 31m 13s.xml">
+      <configuration name="CreditCardValidatorTest.isValidLength" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CreditCardValidatorTest - 2019.02.13 at 16h 31m 24s.xml">
+      <configuration name="CreditCardValidatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CreditCardValidatorTest_isValidLength - 2019.02.13 at 16h 31m 55s.xml">
+      <configuration name="CreditCardValidatorTest.isValidLength" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SecretRecoveryTest - 2019.02.14 at 09h 09m 08s.xml">
+      <configuration name="SecretRecoveryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SecretRecoveryTest - 2019.02.14 at 09h 09m 35s.xml">
+      <configuration name="SecretRecoveryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SecretRecoveryTest - 2019.02.14 at 14h 34m 11s.xml">
+      <configuration name="SecretRecoveryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SecretRecoveryTest - 2019.02.14 at 14h 34m 31s.xml">
+      <configuration name="SecretRecoveryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SecretRecoveryTest - 2019.02.14 at 14h 34m 43s.xml">
+      <configuration name="SecretRecoveryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SecretRecoveryTest - 2019.02.14 at 14h 34m 54s.xml">
+      <configuration name="SecretRecoveryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SecretRecoveryTest - 2019.02.15 at 09h 52m 37s.xml">
+      <configuration name="SecretRecoveryTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="412002000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="27" width="1853" height="1053" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3071389" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Thumbnails" order="0" weight="0.3297414" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.3297062" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.35332605" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.39978448" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3293348" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2728279" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Thumbnails" order="0" weight="0.3297414" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.3297062" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.35332605" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.39978448" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3293348" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/prWeek12/railFencer/CipherApplication.java" />
+    <entry file="file://$PROJECT_DIR$/src/prWeek12/railFencer/Encoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="47" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="13" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prWeek12/railFencer/Decoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prWeek10/reflection10/BookParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-83">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prWeek11/ex4Interface2/EditProcess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="54" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prWeek11/ex4Interface2/Insertion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prWeek11/ex4Interface2/Deletion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prWeek11/ex4Interface2/OneEditAway2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prWeek4/ex9/FileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prWeek8/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prWeek8/robomime/Decryption.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prWeek11/ex4/OneEditAwayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prWeek11/ex3/WordsForNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prWeek12/mapSorting/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prWeek12/permutationsOfAList/Permutation5.java" />
+    <entry file="file://$PROJECT_DIR$/src/prWeek12/permutationsOfAList/Permutation.java" />
+    <entry file="file://$PROJECT_DIR$/src/prWeek12/permutationsOfAList/PermutationApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prWeek12/permutationsOfAList/PermutationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="57" column="47" selection-start-line="57" selection-start-column="47" selection-end-line="57" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prWeek12/permutationsOfAList/Permutation7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prWeek12/permutationsOfAList/Permutation2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prWeek12/permutationsOfAList/Permutation3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prWeek12/permutationsOfAList/Permutation4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prWeek12/permutationsOfAList/Permutation6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prWeek11/ex4Interface2/OneEditAway2Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt:///usr/lib/jvm/java-11-openjdk-amd64!/java.base/java/lang/Enum.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding>
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/NACS/junit-workshop-timetravelers/src/romanconverter/RomanNumeral.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prWeek6/exer5/AmericanExpress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/NACS/junit-workshop-timetravelers/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/NACS/junit-workshop-timetravelers/src/romanconverter/NumberConverterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/NACS/junit-workshop-timetravelers/src/romanconverter/NumberConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/NACS/i4-programming/src/exercise/week9/ex2/StreamsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/NACS/i4-programming/src/challenge/secretdetective/SecretRecoveryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/NACS/i4-programming/src/challenge/katabank/KataBankApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/NACS/i4-programming/src/challenge/katabank/sample.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/NACS/i4-programming/src/challenge/katabank/Digit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="35" column="1" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="35" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/NACS/i4-programming/src/challenge/katabank/Line.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prWeek11/ex1/Timetable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/NACS/i4-programming/src/challenge/katabank/LineIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/NACS/i4-programming/src/challenge/katabank/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/NACS/i4-programming/src/challenge/katabank/AccountBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/NACS/i4-programming/src/challenge/katabank/AccountReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="7" column="53" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/NACS/i4-programming/src/challenge/katabank/DigitTranslator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="30" column="22" lean-forward="true" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/NACS/i4-programming/src/challenge/katabank/DigitIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/NACS/junit-workshop-timetravelers/src/creditcardvalidator/CreditCardValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/NACS/i4-programming/src/challenge/secretdetective/SecretDetective.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="718">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/NACS/i4-programming/src/challenge/katabank/LineIteratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/NACS/i4-programming/src/challenge/katabank/DigitIteratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="670">
+          <caret line="34" column="67" selection-start-line="33" selection-start-column="8" selection-end-line="34" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/NACS/junit-workshop-timetravelers/src/creditcardvalidator/CreditCardValidatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="53" column="56" selection-start-line="51" selection-start-column="31" selection-end-line="53" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prWeek10/ex4/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prWeek11/ex4/OneEditAway.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Project1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lombok</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

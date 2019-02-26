@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Project1.iml" filepath="$PROJECT_DIR$/Project1.iml" />
+      <module fileurl="file://$USER_HOME$/NACS/i4-programming/i4-programming.iml" filepath="$USER_HOME$/NACS/i4-programming/i4-programming.iml" />
+      <module fileurl="file://$USER_HOME$/NACS/junit-workshop-timetravelers/junit-workshop-timetravelers.iml" filepath="$USER_HOME$/NACS/junit-workshop-timetravelers/junit-workshop-timetravelers.iml" />
+    </modules>
+  </component>
+</project>
